@@ -2,7 +2,7 @@
 
 For this assignment, you can find the .Rmd file [here](TwitterAnalysis.Rmd) and .md file [here](TwitterAnalysis.md).
 
-All of the data from this assignment comes from [Twitter](twitter.com)
+All of the data from this assignment comes from [Twitter](https://www.twitter.com).
 
 To reproduce this assignment, the following packages are useful:
 
